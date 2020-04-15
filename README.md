@@ -15,8 +15,11 @@ Click on "Theme" in the bottom left.
 ![alt text](https://b.catgirlsare.sexy/4c73.png)
 
 ###### Step 3
-Copy the text each file in the repository and paste it in the same .liquid or .css file respectively (catagory.txt, index.txt, product.txt,
-style.css).
+Copy the text each file in the repository and paste it in the same .liquid or .css file respectively.
+• styles.css ➢ styles.css
+• index.txt ➢ index.liquid
+• catagory.txt ➢ catagory.liquid
+• product.txt ➢ product.liquid
 
 ![alt text](https://b.catgirlsare.sexy/tf9I.png)
 
