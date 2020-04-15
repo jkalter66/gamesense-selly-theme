@@ -21,7 +21,13 @@ style.css).
 ![alt text](https://b.catgirlsare.sexy/tf9I.png)
 
 ###### Step 4
-Navigate to your account settings and then to customization. Set your primary color code to the hex "#171717".
+Navigate to your account settings and then to customization. 
+
+![alt text](https://b.catgirlsare.sexy/Z2bJ.png)
+
+Set your primary color to the hex code "#171717".
+
+![alt text](https://b.catgirlsare.sexy/2mPg.png)
 
 ###### Step 5
 You're done! Refresh your shop to see the theme show up!
