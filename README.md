@@ -16,9 +16,13 @@ Click on "Theme" in the sidebar on the bottom left.
 
 ###### Step 3
 Copy the text each file in the repository and paste it in the same .liquid or .css file respectively.
+
 • styles.css ➢ styles.css
+
 • index.txt ➢ index.liquid
+
 • catagory.txt ➢ catagory.liquid
+
 • product.txt ➢ product.liquid
 
 ![alt text](https://b.catgirlsare.sexy/tf9I.png)
