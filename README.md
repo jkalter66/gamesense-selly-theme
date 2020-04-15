@@ -22,3 +22,6 @@ style.css).
 
 ###### Step 4
 You're done! Refresh your shop to see the theme show up!
+
+###### Example
+[Example of the theme used in action](https://test1234567.selly.store/)
