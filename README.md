@@ -10,7 +10,7 @@ Log into Selly and navigate to the dashboard.
 ![alt text](https://b.catgirlsare.sexy/tuAp.png)
 
 ###### Step 2
-Click on "Theme" in the bottom left.
+Click on "Theme" in the sidebar on the bottom left.
 
 ![alt text](https://b.catgirlsare.sexy/4c73.png)
 
