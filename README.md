@@ -7,12 +7,8 @@ in the dashboard.
 ###### Step 1
 Log into Selly and navigate to the [dashboard](https://selly.io/dashboard/).
 
-![alt text](https://b.catgirlsare.sexy/tuAp.png)
-
 ###### Step 2
 Click on "[Theme](https://selly.io/dashboard/theme/)" in the sidebar on the bottom left.
-
-![alt text](https://b.catgirlsare.sexy/4c73.png)
 
 ###### Step 3
 Copy the text each file in the repository and paste it in the same .liquid or .css file respectively.
@@ -25,16 +21,11 @@ Copy the text each file in the repository and paste it in the same .liquid or .c
 
 • product.txt ➢ product.liquid
 
-![alt text](https://b.catgirlsare.sexy/tf9I.png)
-
 ###### Step 4
 Navigate to your [account settings](https://selly.io/dashboard/settings) and then to "[Customization](https://selly.io/dashboard/settings/shop/customization)". 
 
-![alt text](https://b.catgirlsare.sexy/Z2bJ.png)
 
 Set your primary color to the hex code "#171717".
-
-![alt text](https://b.catgirlsare.sexy/2mPg.png)
 
 ###### Step 5
 You're done! Refresh your shop to see the theme show up!
